@@ -3,11 +3,14 @@ Instructional Technology | Technology Instruction
 
 ---
 
-## Theme 1
-p tag body copy
+## Web Development
+tk
 
-## Theme 2
-p tag body copy
+## Data Science
+tk
+
+## Knowledge Management
+tk
 
 ---
 
