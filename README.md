@@ -1,3 +1,11 @@
-# cv
+# Malik Singleton
+Information Architecture | Data Visualization | Instructional Design
 
-see visual version at [https://mrsingleton.github.io/cv/](https://mrsingleton.github.io/cv/).
+## IA
+tk
+
+## DV
+tk
+
+## ID
+tk
