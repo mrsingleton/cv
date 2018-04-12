@@ -7,7 +7,7 @@ Instructional Technology | Technology Instruction
 
 I do information architecture and interaction design for online course material and for digital storytelling.
 
-## Examples
+### Examples
 
 art and practice
 ![](https://i.imgur.com/SUcoXxQ.jpg)
@@ -20,7 +20,7 @@ open cities
 
 ---
 
-### Work History
+## Work History
 
 |What|Where|When|
 |:--|:--|:--:|
