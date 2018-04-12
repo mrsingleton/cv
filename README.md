@@ -3,14 +3,16 @@ Instructional Technology | Technology Instruction
 
 ---
 
-## Web Development
-tk
+## Information Design
 
-## Data Science
-tk
+art and practice
+![](https://i.imgur.com/SUcoXxQ.jpg)
 
-## Knowledge Management
-tk
+modern arab nations
+![](https://i.imgur.com/G1rFLNF.jpg)
+
+open cities
+![](https://i.imgur.com/sNyFRS9.jpg)
 
 ---
 
