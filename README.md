@@ -25,6 +25,6 @@ tk
 |Web Project Manager|Pixod.com|2003 - 2006|
 |Web Producer|InteractiveOne|2000 - 2003|
 
-Contact me via DM
+###### Contact me via DM
 
 >Work is what we do, now what we are.
