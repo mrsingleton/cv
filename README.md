@@ -3,14 +3,14 @@ Instructional Technology | Technology Instruction
 
 ---
 
->I love working with Malik --says everyone
-
-
 ## Theme 1
 p tag body copy
 
 ### Theme 2
 p tag body copy
+
+>I love working with Malik
+--says everyone
 
 ### Work History
 
