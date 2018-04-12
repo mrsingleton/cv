@@ -6,7 +6,7 @@ Instructional Technology | Technology Instruction
 ## Theme 1
 p tag body copy
 
-### Theme 2
+## Theme 2
 p tag body copy
 
 ### Work History
@@ -19,8 +19,6 @@ p tag body copy
 |Web Producer|TIME.com|2006 - 2009|
 |Web Project Manager|Pixod.com|2003 - 2006|
 |Web Producer|InteractiveOne|2000 - 2003|
-
----
 
 >I love working with Malik
 >--says everyone
