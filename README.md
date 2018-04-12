@@ -9,6 +9,8 @@ p tag body copy
 ## Theme 2
 p tag body copy
 
+---
+
 ### Work History
 
 |What|Where|When|
@@ -20,5 +22,4 @@ p tag body copy
 |Web Project Manager|Pixod.com|2003 - 2006|
 |Web Producer|InteractiveOne|2000 - 2003|
 
->I love working with Malik
->--says everyone
+>Work is what we do, now what we are.
