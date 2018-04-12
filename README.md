@@ -1,5 +1,4 @@
 # Malik Singleton
-Instructional Technology | Technology Instruction
 
 ---
 
