@@ -16,8 +16,8 @@ p tag body copy
 
 |What|Where|When|
 |:--|:--|:--:|
-|Instructional Tech|NYU|2014 - present|
-|Adjunct Instructor|CUNY Grad School of Journalism|2012 - present|
+|Instructional Tech|NYU|2014 - now|
+|Adjunct Instructor|CUNY Grad School of Journalism|2012 - now|
 |Webmaster|elMuseo.org|2009 - 2012|
 |Web Producer|TIME.com|2006 - 2009|
 |Web Project Manager|Pixod.com|2003 - 2006|
