@@ -6,7 +6,7 @@ Instructional Technology | Technology Instruction
 ## Instructional Technology
 
 ### Information Design
-I do information architecture and interaction design for online course material and for digital storytelling.
+I do information architecture and interaction design for online course material.
 
 #### Examples
 In these examples, I worked with subject matter experts to organize and repurpose unwieldy topic data into usable course information.
@@ -25,7 +25,7 @@ Open Cities: searchability
 ## Technology Instruction
 
 ### Interactive Curriculum
-I take an interactive approach to teaching interactive content production. I teach data science and web development to journalism students at the grad level.
+I take an interactive approach to teaching interactive content production and multimedia storytelling. I teach data science and web development to journalism students at the grad level.
 
 ---
 
