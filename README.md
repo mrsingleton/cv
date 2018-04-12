@@ -5,6 +5,10 @@ Instructional Technology | Technology Instruction
 
 ## Information Design
 
+I do information architecture and interaction design for online course material and for digital storytelling.
+
+## Examples
+
 art and practice
 ![](https://i.imgur.com/SUcoXxQ.jpg)
 
