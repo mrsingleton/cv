@@ -1,11 +1,13 @@
 # Malik Singleton
 Information Architecture | Data Visualization | Instructional Design
 
-## IA
+---
+
+## ia
 tk
 
-## DV
+## dv
 tk
 
-## ID
+## id
 tk
