@@ -8,14 +8,15 @@ Instructional Technology | Technology Instruction
 I do information architecture and interaction design for online course material and for digital storytelling.
 
 ### Examples
+In these examples, I worked with subject matter experts to organize and repurpose unwieldy topic data into usable course information.
 
-art and practice
+Art and Practice
 ![](https://i.imgur.com/SUcoXxQ.jpg)
 
-modern arab nations
+Modern Arab Nations
 ![](https://i.imgur.com/G1rFLNF.jpg)
 
-open cities
+Open Cities
 ![](https://i.imgur.com/sNyFRS9.jpg)
 
 ---
