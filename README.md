@@ -3,23 +3,22 @@ Instructional Technology | Technology Instruction
 
 ---
 
-## h2
+>I love working with Malik --says everyone
+
+
+## Theme 1
 p tag body copy
 
-### h3
+### Theme 2
 p tag body copy
 
-#### h4
-p tag body copy
+### Work History
 
-##### h5
-p tag body copy
-
-###### h6
-p tag body copy
-
->blockquote callout copy
-
-```html
-semantics
-```
+|What|Where|When|
+|:--|:--|:--:|
+|Instructional Tech|NYU|2014 - present|
+|Adjunct Instructor|CUNY Grad School of Journalism|2012 - present|
+|Webmaster|elMuseo.org|2009 - 2012|
+|Web Producer|TIME.com|2006 - 2009|
+|Web Project Manager|Pixod.com|2003 - 2006|
+|Web Producer|InteractiveOne|2000 - 2003|
