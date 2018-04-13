@@ -1,6 +1,6 @@
 # Site settings
 title: Malik Singleton
-description: 'Instructional Tech & Tech Instruction<br><a href="/cv/experience/">Experience</a><br><a href="/cv/education/">Education</a><br><a href="/cv/examples/">Examples</a>'
+description: 'I do data and design work<br><a href="/cv/experience/">Experience</a><br><a href="/cv/education/">Education</a><br><a href="/cv/examples/">Examples</a>'
 url: https://mrsingleton.github.io
 theme: jekyll-theme-minimal
 email: malik@nyu.edu
