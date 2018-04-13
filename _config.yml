@@ -1,9 +1,8 @@
 # Site settings
 title: Instructional Tech & Tech Instruction
-description: 'I do data and design work<br><a href="/cv/experience/">Experience</a><br><a href="/cv/education/">Education</a><br><a href="/cv/examples/">Examples</a>'
+description: 'I do data and design work<br><a href="experience/">Experience</a><br><a href="education/">Education</a><br><a href="examples/">Examples</a>'
 theme: jekyll-theme-minimal
 email: malik@nyu.edu
-url: https://mrsingleton.github.io/cv
 keywords: "resume site, curriculum vitae example, work history online, work experience website, personal information, malik singleton, professional background"
 skills: "Data Science - Web Development - Information Architecture - User Experience"
 meta_author: Singleton Malik
