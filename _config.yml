@@ -1,6 +1,12 @@
 # Site settings
 title: Instructional Tech & Tech Instruction
 description: cv and work showcase
+  - title: twitter
+    url: https://twitter.com/malikfromla
+  - title: instagram
+    url: https://instagram.com/mrsingleton
+  - title: github
+    url: http://github.com/mrsingleton
 theme: jekyll-theme-minimal
 email: malik@nyu.edu
 url: https://mrsingleton.github.io/cv
