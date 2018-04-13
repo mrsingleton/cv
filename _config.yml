@@ -1,6 +1,6 @@
 # Site settings
-title: Instructional Tech & Tech Instruction-
-description: 'I do data and design work<br><a href="experience/">Experience</a><br><a href="education/">Education</a><br><a href="examples/">Examples</a>'
+title: Instructional Tech & Tech Instruction
+description: 'I do data and design work<br><a href="/cv/experience/">Experience</a><br><a href="/cv/education/">Education</a><br><a href="/cv/examples/">Examples</a>'
 theme: jekyll-theme-minimal
 email: malik@nyu.edu
 url: https://mrsingleton.github.io/cv
