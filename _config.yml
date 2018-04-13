@@ -1,12 +1,6 @@
 # Site settings
-title: Instructional Tech & Tech Instruction
-description: cv and work showcase
-  - title: twitter
-    url: https://twitter.com/malikfromla
-  - title: instagram
-    url: https://instagram.com/mrsingleton
-  - title: github
-    url: http://github.com/mrsingleton
+title: Instructional Tech & Tech Instruction-
+description: 'cv and work showcase<br><a href="https://twitter.com/malikfromla" target="_blank">Twitter</a><br><a href="https://instagram.com/mrsingleton" target="_blank">Instagram</a><br><a href="http://github.com/mrsingleton" target="_blank">Github</a>'
 theme: jekyll-theme-minimal
 email: malik@nyu.edu
 url: https://mrsingleton.github.io/cv
@@ -14,33 +8,5 @@ keywords: "resume site, curriculum vitae example, work history online, work expe
 skills: "Data Science - Web Development - Information Architecture - User Experience"
 meta_author: Singleton Malik
 
-sidebar:
-  - title: twitter
-    url: https://twitter.com/malikfromla
-  - title: instagram
-    url: https://instagram.com/mrsingleton
-  - title: github
-    url: http://github.com/mrsingleton
-
-# Footer settings
-footer:
-  copyright: 2018 Malik Singleton
-  location: New York, NY
-  social:
-  credits: 
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: https://twitter.com/malikfromla
-  - title: instagram
-    url: https://instagram.com/mrsingleton
-  - title: github
-    url: http://github.com/mrsingleton
-
 # Credits content
 credits: 'This credit line includes an <a href="http://startbootstrap.com">external link</a>.'
-
-# Build settings
-markdown: kramdown
-permalink: pretty
