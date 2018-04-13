@@ -3,10 +3,10 @@
 ---
 
 ## Summary
-I do Information Design in higher ed. As an Instructional Technologist, I work closely with faculty to organize course content and meta data into intuitive interfaces and usable taxonomies, while incorporating various software.
+I do Information Design in higher ed. As an Instructional Technologist, I work closely with faculty to organize course content, media and meta data into intuitive interfaces and usable taxonomies, while incorporating various software.
 
 ## Current Work
-By day, I manage cloud software services at NYU. My group supports a Web Publishing environment, a video streaming platform and a learning management system. I focus on usability and information architecture in couse sites and applications. Aspects of the work include accessibility compliance and change management.
+By day, I manage cloud software services at NYU. My group supports a Web Publishing environment, a video streaming platform and a learning management system. I focus on usability and information architecture in couse sites and applications. Aspects of my current work also include accessibility compliance and change management.
 
 By night, I teach interactive content development at CUNY's Grad School of Journalism. My reporting courses cover web development skills and data science projects and include a big focus is on information design.
 
