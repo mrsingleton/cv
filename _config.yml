@@ -8,11 +8,19 @@ keywords: "resume site, curriculum vitae example, work history online, work expe
 skills: "Data Science - Web Development - Information Architecture - User Experience"
 meta_author: Singleton Malik
 
+sidebar:
+  - title: twitter
+    url: https://twitter.com/malikfromla
+  - title: instagram
+    url: https://instagram.com/mrsingleton
+  - title: github
+    url: http://github.com/mrsingleton
+
 # Footer settings
 footer:
   copyright: 2018 Malik Singleton
   location: New York, NY
-  social: Social Networks
+  social:
   credits: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
