@@ -16,9 +16,6 @@ Much of my experience is in web development and site management. Prior to my wor
 ## Expertise
 I oversee customer experience and client support for my services, so I know firsthand what real people find intuitive...
 
-## Work History
-
-
 ---
 
 ###### Contact me via DM
