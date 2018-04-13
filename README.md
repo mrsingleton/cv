@@ -1,4 +1,4 @@
-# Malik Singleton
+# Instructional Tech & Tech Instruction
 
 ---
 
