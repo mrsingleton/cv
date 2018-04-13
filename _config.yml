@@ -1,11 +1,9 @@
 # Site settings
 title: Instructional Tech & Tech Instruction
-description: 'I do data and design work<br><a href="experience/">Experience</a><br><a href="education/">Education</a><br><a href="examples/">Examples</a>'
+description: 'I do data and design work<br><a href="../experience/">Experience</a><br><a href="/education/">Education</a><br><a href="/cv/examples/">Examples</a>'
+url: https://mrsingleton.github.io
 theme: jekyll-theme-minimal
 email: malik@nyu.edu
 keywords: "resume site, curriculum vitae example, work history online, work experience website, personal information, malik singleton, professional background"
 skills: "Data Science - Web Development - Information Architecture - User Experience"
 meta_author: Singleton Malik
-
-# Credits content
-credits: 'This credit line includes an <a href="http://startbootstrap.com">external link</a>.'
