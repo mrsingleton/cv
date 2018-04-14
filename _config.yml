@@ -1,6 +1,6 @@
 # Site settings
 title: Malik Singleton
-description: '<p>I do data and design work</p><hr><p><a href="/cv/info-design/">Info Design</a><br><a href="/cv/data-science/">Data Science</a><br><a href="/cv/instruction/">Instruction</a></p><hr><p><a href="/cv/experience/">Experience</a><br><a href="/cv/education/">Education</a><br><a href="/cv/examples/">Examples</a></p>'
+description: '<p>Technologist</p><hr><p><a href="/cv/info-design/">Info Design</a><br><a href="/cv/data-science/">Data Science</a><br><a href="/cv/instruction/">Instruction</a></p><hr><p><a href="/cv/experience/">Experience</a><br><a href="/cv/education/">Education</a><br><a href="/cv/examples/">Examples</a></p>'
 url: https://mrsingleton.github.io
 theme: jekyll-theme-minimal
 email: malik@nyu.edu
